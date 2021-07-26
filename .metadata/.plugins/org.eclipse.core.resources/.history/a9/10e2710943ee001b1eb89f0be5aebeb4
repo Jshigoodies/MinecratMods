@@ -1,0 +1,5 @@
+package jshi.Jason.ModOne.client.util;
+
+public class ClientUtils {
+
+}
