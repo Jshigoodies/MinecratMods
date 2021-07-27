@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+    <libraryInfo home="C:\Program Files\Java\jdk-16.0.1\bin" version="16.0.1"/>
     <libraryInfo home="C:\Program Files\Java\jre1.8.0_271\bin" version="1.8.0_271">
         <bootpath>
             <entry path="C:\Program Files\Java\jre1.8.0_271\lib\resources.jar"/>
@@ -38,6 +39,45 @@
             <entry path="C:\Program Files\AdoptOpenJDK\jdk-8.0.292.10-hotspot\jre\lib\endorsed"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="C:\Program Files\Java\jre1.8.0_301" version="1.8.0_301">
+        <bootpath>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\resources.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\rt.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\sunrsasign.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\jsse.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\jce.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\charsets.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\jfr.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\ext"/>
+            <entry path="C:\Windows\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Program Files\Java\jre1.8.0_301\bin" version="1.8.0_301">
+        <bootpath>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\resources.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\rt.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\sunrsasign.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\jsse.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\jce.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\charsets.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\jfr.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\ext"/>
+            <entry path="C:\Windows\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Program Files\Java\jre1.8.0_301\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Program Files\Java\jdk-16.0.1" version="16.0.1"/>
     <libraryInfo home="C:\Program Files\Java\jdk-14.0.2" version="14.0.2"/>
     <libraryInfo home="C:\Program Files\AdoptOpenJDK\jdk-8.0.292.10-hotspot" version="1.8.0_292">
         <bootpath>
