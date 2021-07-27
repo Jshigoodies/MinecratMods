@@ -2,4 +2,13 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="net.minecraftforge.api.distmarker.Dist"/>
     <fullyQualifiedTypeName name="net.minecraftforge.api.distmarker.OnlyIn"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.registries.DeferredRegister"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.registries.ForgeRegistries"/>
+    <fullyQualifiedTypeName name="jshi.Jason.ModOne.ModOne"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.fmllegacy.RegistryObject"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.item.Item.Properties"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.item.Item"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.item.CreativeModeTab"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.eventbus.api.IEventBus"/>
+    <fullyQualifiedTypeName name="jshi.Jason.ModOne.core.init.ItemInit"/>
 </qualifiedTypeNameHistroy>

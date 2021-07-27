@@ -1,0 +1,8 @@
+package jshi.Jason.ModOne.core.init;
+
+import net.minecraft.world.item.Item;
+import net.minecraftforge.registries.DeferredRegister;
+
+public class ItemInit {
+	public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, ModOne.MOD_ID);
+}
