@@ -19,9 +19,7 @@ public class BlockInit {
 			.harvestTool(ToolType.PICKAXE)
 			.harvestLevel(2)
 			.sound(SoundType.METAL)));
-	
-	
-	/* harvest level
+	/*
 	 * -1 all tools
 	 * 0 wood
 	 * 1 stone

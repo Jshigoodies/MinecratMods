@@ -2,7 +2,6 @@ package jshi.Jason.ModOne.core.init;
 
 import jshi.Jason.ModOne.ModOne;
 import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour.Properties;
 import net.minecraft.world.level.material.Material;
 import net.minecraft.world.level.material.MaterialColor;
@@ -17,18 +16,7 @@ public class BlockInit {
 			Properties.of(Material.METAL, MaterialColor.COLOR_BLUE)
 			.strength(15f, 30f)
 			.harvestTool(ToolType.PICKAXE)
-			.harvestLevel(2)
-			.sound(SoundType.METAL)));
-	
-	
-	/* harvest level
-	 * -1 all tools
-	 * 0 wood
-	 * 1 stone
-	 * 2 iron
-	 * 3 diamond
-	 * 4 neterite
-	 */
+			.harvestLevel(-1)));
 }
 
 // .create is now .of, and .group is now .tab
